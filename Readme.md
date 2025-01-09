@@ -105,9 +105,41 @@ Berikut implementasi CRUD (Create, Read, Update, Delete):
      - Email: `rani@gmail.com`
      - Password: `12345678`
 
-## Screenshots
+## Tampilan
 1. **Dashboard Admin**
    ![Dashboard Admin](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104616.png)
 
 2. **Dashboard Anggota**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+3. **login**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+4. **Register**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+
+5. **Tampilan Lihat Semua Buku**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+6. **Tampilan Detail Buku**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+
+7. **Tampilan Tambah Buku**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+8. **Tampilan Delete Buku**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+9. **Tampilan Update Buku**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+
+10. **Tampilan Semua Kategori**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+
+11. **Tampilan Tambah Kategori**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+12. **Tampilan  Daftar Anggota**
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   
+13. **Tampilan Riwayat Peminjaman**
    ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
