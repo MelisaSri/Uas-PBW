@@ -113,33 +113,33 @@ Berikut implementasi CRUD (Create, Read, Update, Delete):
    ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
    
 3. **login**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104527.png)
    
 4. **Register**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104318.png)
 
 5. **Tampilan Lihat Semua Buku**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103436.png)
    
 6. **Tampilan Detail Buku**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20114923.png)
 
 7. **Tampilan Tambah Buku**
    ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
 8. **Tampilan Delete Buku**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103958.png)
    
 9. **Tampilan Update Buku**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20115020.png)
 
 10. **Tampilan Semua Kategori**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104139.png)
 
 11. **Tampilan Tambah Kategori**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20114837.png)
    
 12. **Tampilan  Daftar Anggota**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104058.png)
    
 13. **Tampilan Riwayat Peminjaman**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104117.png)
