@@ -107,7 +107,7 @@ Berikut implementasi CRUD (Create, Read, Update, Delete):
 
 ## Screenshots
 1. **Dashboard Admin**
-   ![Dashboard Admin](path-to-your-screenshot1)
+   ![Dashboard Admin](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20104616.png)
 
 2. **Dashboard Anggota**
-   ![Dashboard Anggota](path-to-your-screenshot2)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
