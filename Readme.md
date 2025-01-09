@@ -136,7 +136,7 @@ Berikut implementasi CRUD (Create, Read, Update, Delete):
    ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20114923.png)
 
 7. **Tampilan Tambah Buku**
-   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20103237.png)
+   ![Dashboard Anggota](https://github.com/MelisaSri/Uas-PBW/blob/main/Screenshot%202025-01-09%20142942.png)
    Tampilan untuk menambahkan buku ke sistem memungkinkan admin untuk menginput data buku baru yang akan tersedia di perpustakaan.
 
 8. **Tampilan Delete Buku**
